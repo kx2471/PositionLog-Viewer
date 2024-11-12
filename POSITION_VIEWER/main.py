@@ -2,8 +2,6 @@ import tkinter as tk
 from tkinter import messagebox
 import subprocess
 import os
-import i2_poslog
-import i3_poslog
 
 def run_i2_poslog():
     try:
